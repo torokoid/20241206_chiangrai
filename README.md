@@ -120,14 +120,14 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/05〜12/07 、チェンライで過ごす日々のまとめ、その２ !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/05〜12/07 、チェンライ周辺のお花を集めました !!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">12月3日、朝は義妹のお店で朝食</span></h2>
+<h2><span class="yellow">12月5日、朝から夏の日差しが照り付けています</span></h2>
 
 <a href="IMG_1517.HEIC" target="_blank"><img src="IMG_1517.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1518.HEIC" target="_blank"><img src="IMG_1518.HEIC" alt="サンプル画像" width="900" /></a>
