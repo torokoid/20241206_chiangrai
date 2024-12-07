@@ -139,9 +139,11 @@ p.note { display: none; }
 <a href="IMG_1524.HEIC" target="_blank"><img src="IMG_1524.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1525.HEIC" target="_blank"><img src="IMG_1525.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1526.HEIC" target="_blank"><img src="IMG_1526.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1527.HEIC" target="_blank"><img src="IMG_1527.HEIC" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="IMG_1527.HEIC" target="_blank"><img src="IMG_1527.HEIC" alt="サンプル画像" width="900" /></a>-->
 <a href="IMG_1528.HEIC" target="_blank"><img src="IMG_1528.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1529.HEIC" target="_blank"><img src="IMG_1529.HEIC" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="IMG_1529.HEIC" target="_blank"><img src="IMG_1529.HEIC" alt="サンプル画像" width="900" /></a>-->
 <a href="IMG_1530.HEIC" target="_blank"><img src="IMG_1530.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1531.HEIC" target="_blank"><img src="IMG_1531.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1532.HEIC" target="_blank"><img src="IMG_1532.HEIC" alt="サンプル画像" width="900" /></a>
@@ -157,7 +159,8 @@ p.note { display: none; }
 <a href="IMG_1542.HEIC" target="_blank"><img src="IMG_1542.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1543.HEIC" target="_blank"><img src="IMG_1543.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1544.HEIC" target="_blank"><img src="IMG_1544.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1545.HEIC" target="_blank"><img src="IMG_1545.HEIC" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="IMG_1545.HEIC" target="_blank"><img src="IMG_1545.HEIC" alt="サンプル画像" width="900" /></a>-->
 <a href="IMG_1546.HEIC" target="_blank"><img src="IMG_1546.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1547.HEIC" target="_blank"><img src="IMG_1547.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1548.HEIC" target="_blank"><img src="IMG_1548.HEIC" alt="サンプル画像" width="900" /></a>
@@ -165,12 +168,17 @@ p.note { display: none; }
 <a href="IMG_1550.HEIC" target="_blank"><img src="IMG_1550.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1551.HEIC" target="_blank"><img src="IMG_1551.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1552.HEIC" target="_blank"><img src="IMG_1552.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1553.HEIC" target="_blank"><img src="IMG_1553.HEIC" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="IMG_1553.HEIC" target="_blank"><img src="IMG_1553.HEIC" alt="サンプル画像" width="900" /></a>-->
 <a href="IMG_1554.HEIC" target="_blank"><img src="IMG_1554.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1555.HEIC" target="_blank"><img src="IMG_1555.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1556.HEIC" target="_blank"><img src="IMG_1556.HEIC" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="IMG_1555.HEIC" target="_blank"><img src="IMG_1555.HEIC" alt="サンプル画像" width="900" /></a>-->
+<!--
+<a href="IMG_1556.HEIC" target="_blank"><img src="IMG_1556.HEIC" alt="サンプル画像" width="900" /></a>-->
 <a href="IMG_1557.HEIC" target="_blank"><img src="IMG_1557.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1558.HEIC" target="_blank"><img src="IMG_1558.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">Toyotaのトラック荷台は植木鉢になっています</span></h2>
 <a href="IMG_1559.HEIC" target="_blank"><img src="IMG_1559.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1560.HEIC" target="_blank"><img src="IMG_1560.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1561.HEIC" target="_blank"><img src="IMG_1561.HEIC" alt="サンプル画像" width="900" /></a>
@@ -181,8 +189,10 @@ p.note { display: none; }
 <a href="IMG_1566.HEIC" target="_blank"><img src="IMG_1566.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1567.HEIC" target="_blank"><img src="IMG_1567.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1568.HEIC" target="_blank"><img src="IMG_1568.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1569.HEIC" target="_blank"><img src="IMG_1569.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1570.HEIC" target="_blank"><img src="IMG_1570.HEIC" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="IMG_1569.HEIC" target="_blank"><img src="IMG_1569.HEIC" alt="サンプル画像" width="900" /></a>-->
+<!--
+<a href="IMG_1570.HEIC" target="_blank"><img src="IMG_1570.HEIC" alt="サンプル画像" width="900" /></a>-->
 <a href="IMG_1571.HEIC" target="_blank"><img src="IMG_1571.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1572.HEIC" target="_blank"><img src="IMG_1572.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1573.HEIC" target="_blank"><img src="IMG_1573.HEIC" alt="サンプル画像" width="900" /></a>
@@ -195,6 +205,8 @@ p.note { display: none; }
 <a href="IMG_1580.HEIC" target="_blank"><img src="IMG_1580.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1581.HEIC" target="_blank"><img src="IMG_1581.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1582.HEIC" target="_blank"><img src="IMG_1582.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お寺のゴミ箱は古タイヤを加工したものでした</span></h2>
 <a href="IMG_1583.HEIC" target="_blank"><img src="IMG_1583.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1584.HEIC" target="_blank"><img src="IMG_1584.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1585.HEIC" target="_blank"><img src="IMG_1585.HEIC" alt="サンプル画像" width="900" /></a>
