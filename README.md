@@ -1,4 +1,4 @@
-# 20241206_chiangrai
+# 20241207_chiangrai
 
 <html>
 <head>
@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241204_chiangrai/20241204_041.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241207_chiangrai/IMG_1566.HEIC) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/03〜12/04 、チェンライで過ごす日々をまとめました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/05〜12/07 、チェンライで過ごす日々のまとめ、その２ !!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
