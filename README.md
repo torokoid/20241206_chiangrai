@@ -144,7 +144,11 @@ p.note { display: none; }
 <a href="IMG_1528.HEIC" target="_blank"><img src="IMG_1528.HEIC" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="IMG_1529.HEIC" target="_blank"><img src="IMG_1529.HEIC" alt="サンプル画像" width="900" /></a>-->
+
+<h2><span class="yellow">三日月と金星の位置が前日と逆転してました</span></h2>
 <a href="IMG_1530.HEIC" target="_blank"><img src="IMG_1530.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">6日の朝、一般家庭の屋外食事スペース兼、作業場</span></h2>
 <a href="IMG_1531.HEIC" target="_blank"><img src="IMG_1531.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1532.HEIC" target="_blank"><img src="IMG_1532.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1533.HEIC" target="_blank"><img src="IMG_1533.HEIC" alt="サンプル画像" width="900" /></a>
@@ -193,25 +197,39 @@ p.note { display: none; }
 <a href="IMG_1569.HEIC" target="_blank"><img src="IMG_1569.HEIC" alt="サンプル画像" width="900" /></a>-->
 <!--
 <a href="IMG_1570.HEIC" target="_blank"><img src="IMG_1570.HEIC" alt="サンプル画像" width="900" /></a>-->
+
+<h2><span class="yellow">夕焼け空に三日月と金星</span></h2>
 <a href="IMG_1571.HEIC" target="_blank"><img src="IMG_1571.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">三日月と金星が接近中</span></h2>
 <a href="IMG_1572.HEIC" target="_blank"><img src="IMG_1572.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1573.HEIC" target="_blank"><img src="IMG_1573.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">7日も朝市で食料調達します</span></h2>
 <a href="IMG_1574.HEIC" target="_blank"><img src="IMG_1574.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1575.HEIC" target="_blank"><img src="IMG_1575.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1576.HEIC" target="_blank"><img src="IMG_1576.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1577.HEIC" target="_blank"><img src="IMG_1577.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">朝霧の中に朝日が登りました</span></h2>
 <a href="IMG_1578.HEIC" target="_blank"><img src="IMG_1578.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1579.HEIC" target="_blank"><img src="IMG_1579.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1580.HEIC" target="_blank"><img src="IMG_1580.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">朝市で調達したものをお寺にお供えします</span></h2>
 <a href="IMG_1581.HEIC" target="_blank"><img src="IMG_1581.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1582.HEIC" target="_blank"><img src="IMG_1582.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お寺のゴミ箱は古タイヤを加工したものでした</span></h2>
+<h2><span class="yellow">お寺のゴミ箱は古タイヤを綺麗に加工したものでした</span></h2>
 <a href="IMG_1583.HEIC" target="_blank"><img src="IMG_1583.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1584.HEIC" target="_blank"><img src="IMG_1584.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お寺の創立100周年記念の記録</span></h2>
 <a href="IMG_1585.HEIC" target="_blank"><img src="IMG_1585.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1586.HEIC" target="_blank"><img src="IMG_1586.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1587.HEIC" target="_blank"><img src="IMG_1587.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">こないだのヒナは成長して20日ひなになってました</span></h2>
 <a href="IMG_1588.HEIC" target="_blank"><img src="IMG_1588.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1589.HEIC" target="_blank"><img src="IMG_1589.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1590.HEIC" target="_blank"><img src="IMG_1590.HEIC" alt="サンプル画像" width="900" /></a>
