@@ -253,6 +253,8 @@ p.note { display: none; }
 <h2><span class="yellow">お店を出た頃には、綺麗な夕焼け空</span></h2>
 <a href="IMG_1599.HEIC" target="_blank"><img src="IMG_1599.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1600.HEIC" target="_blank"><img src="IMG_1600.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">三日月と金星が接近中（金星は右下に小さく写ってます）</span></h2>
 <a href="IMG_1601.HEIC" target="_blank"><img src="IMG_1601.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1602.HEIC" target="_blank"><img src="IMG_1602.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1603.HEIC" target="_blank"><img src="IMG_1603.HEIC" alt="サンプル画像" width="900" /></a>
