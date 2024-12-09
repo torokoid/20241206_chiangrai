@@ -264,6 +264,9 @@ p.note { display: none; }
 <h2><span class="yellow">夜はメタバースで遊んでいたら、4歳の甥っ子が横から眺めて操作方法を習得<br>動きが怪しくなったのをWorldオーナーに見破られました</span></h2>
 <a href="IMG_1606.HEIC" target="_blank"><img src="IMG_1606.HEIC" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">ちなみにWorldオーナーはこの方<br>メタバース界の重鎮です、画像クリックでXアカウントに飛びます</span></h2>
+<a href="https://x.com/vrfairytownship" target="_blank"><img src="akilux.png" alt="サンプル画像" width="900" /></a>
+
 <br><br>
 
 <h2><span class="yellow">
