@@ -241,7 +241,7 @@ p.note { display: none; }
 <h2><span class="yellow">プール帰りに出会った、首長族の行商の皆様</span></h2>
 <a href="IMG_1592.HEIC" target="_blank"><img src="IMG_1592.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">メーサイのLotusから見えた綺麗な空</span></h2>
+<h2><span class="yellow">メーチャンのLotusから見えた綺麗な空</span></h2>
 <a href="IMG_1593.HEIC" target="_blank"><img src="IMG_1593.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1594.HEIC" target="_blank"><img src="IMG_1594.HEIC" alt="サンプル画像" width="900" /></a>
 
