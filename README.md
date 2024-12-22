@@ -129,24 +129,32 @@ p.note { display: none; }
 
 <h2><span class="yellow">12月5日、朝から夏の日差しが照り付けています</span></h2>
 
-<a href="IMG_1517.HEIC" target="_blank"><img src="IMG_1517.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1518.HEIC" target="_blank"><img src="IMG_1518.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1519.HEIC" target="_blank"><img src="IMG_1519.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1520.HEIC" target="_blank"><img src="IMG_1520.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1521.HEIC" target="_blank"><img src="IMG_1521.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1522.HEIC" target="_blank"><img src="IMG_1522.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1523.HEIC" target="_blank"><img src="IMG_1523.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1524.HEIC" target="_blank"><img src="IMG_1524.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1525.HEIC" target="_blank"><img src="IMG_1525.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1526.HEIC" target="_blank"><img src="IMG_1526.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1517.jpeg" target="_blank"><img src="IMG_1517.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1518.jpeg" target="_blank"><img src="IMG_1518.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1519.jpeg" target="_blank"><img src="IMG_1519.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1520.jpeg" target="_blank"><img src="IMG_1520.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1521.jpeg" target="_blank"><img src="IMG_1521.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1522.jpeg" target="_blank"><img src="IMG_1522.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1523.jpeg" target="_blank"><img src="IMG_1523.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1524.jpeg" target="_blank"><img src="IMG_1524.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1525.jpeg" target="_blank"><img src="IMG_1525.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1526.jpeg" target="_blank"><img src="IMG_1526.jpeg" alt="サンプル画像" width="900" /></a>
+
 <!--
-<a href="IMG_1527.HEIC" target="_blank"><img src="IMG_1527.HEIC" alt="サンプル画像" width="900" /></a>-->
-<a href="IMG_1528.HEIC" target="_blank"><img src="IMG_1528.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1527.jpeg" target="_blank"><img src="IMG_1527.jpeg" alt="サンプル画像" width="900" /></a>-->
+<a href="IMG_1528.jpeg" target="_blank"><img src="IMG_1528.jpeg" alt="サンプル画像" width="900" /></a>
 <!--
-<a href="IMG_1529.HEIC" target="_blank"><img src="IMG_1529.HEIC" alt="サンプル画像" width="900" /></a>-->
+<a href="IMG_1529.jpeg" target="_blank"><img src="IMG_1529.jpeg" alt="サンプル画像" width="900" /></a>-->
 
 <h2><span class="yellow">三日月と金星の位置が前日と逆転してました</span></h2>
-<a href="IMG_1530.HEIC" target="_blank"><img src="IMG_1530.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1530.jpeg" target="_blank"><img src="IMG_1530.jpeg" alt="サンプル画像" width="900" /></a>
+
+
+
+
+
+
+
 
 <h2><span class="yellow">6日の朝、一般家庭の屋外食事スペース兼、作業場</span></h2>
 <a href="IMG_1531.HEIC" target="_blank"><img src="IMG_1531.HEIC" alt="サンプル画像" width="900" /></a>
