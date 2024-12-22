@@ -213,83 +213,64 @@ p.note { display: none; }
 <a href="IMG_1573.jpeg" target="_blank"><img src="IMG_1573.jpeg" alt="サンプル画像" width="900" /></a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2><span class="yellow">7日も朝市で食料調達します</span></h2>
-<a href="IMG_1574.HEIC" target="_blank"><img src="IMG_1574.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1575.HEIC" target="_blank"><img src="IMG_1575.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1576.HEIC" target="_blank"><img src="IMG_1576.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1577.HEIC" target="_blank"><img src="IMG_1577.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1574.jpeg" target="_blank"><img src="IMG_1574.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1575.jpeg" target="_blank"><img src="IMG_1575.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1576.jpeg" target="_blank"><img src="IMG_1576.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1577.jpeg" target="_blank"><img src="IMG_1577.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">朝霧の中に朝日が登りました</span></h2>
-<a href="IMG_1578.HEIC" target="_blank"><img src="IMG_1578.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1579.HEIC" target="_blank"><img src="IMG_1579.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1580.HEIC" target="_blank"><img src="IMG_1580.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1578.jpeg" target="_blank"><img src="IMG_1578.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1579.jpeg" target="_blank"><img src="IMG_1579.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1580.jpeg" target="_blank"><img src="IMG_1580.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">朝市で調達したものをお寺にお供えします</span></h2>
-<a href="IMG_1581.HEIC" target="_blank"><img src="IMG_1581.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1582.HEIC" target="_blank"><img src="IMG_1582.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1581.jpeg" target="_blank"><img src="IMG_1581.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1582.jpeg" target="_blank"><img src="IMG_1582.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お寺のゴミ箱は古タイヤを綺麗に加工したものでした</span></h2>
-<a href="IMG_1583.HEIC" target="_blank"><img src="IMG_1583.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1584.HEIC" target="_blank"><img src="IMG_1584.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1583.jpeg" target="_blank"><img src="IMG_1583.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1584.jpeg" target="_blank"><img src="IMG_1584.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お寺の創立100周年記念の記録</span></h2>
-<a href="IMG_1585.HEIC" target="_blank"><img src="IMG_1585.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1586.HEIC" target="_blank"><img src="IMG_1586.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1587.HEIC" target="_blank"><img src="IMG_1587.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1585.jpeg" target="_blank"><img src="IMG_1585.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1586.jpeg" target="_blank"><img src="IMG_1586.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1587.jpeg" target="_blank"><img src="IMG_1587.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">こないだのヒナは成長して20日ひなになってました</span></h2>
-<a href="IMG_1588.HEIC" target="_blank"><img src="IMG_1588.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1589.HEIC" target="_blank"><img src="IMG_1589.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1590.HEIC" target="_blank"><img src="IMG_1590.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1588.jpeg" target="_blank"><img src="IMG_1588.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1589.jpeg" target="_blank"><img src="IMG_1589.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1590.jpeg" target="_blank"><img src="IMG_1590.jpeg" alt="サンプル画像" width="900" /></a>
 <br><br>
 
 <h2><span class="yellow">プールは快晴で水泳日和</span></h2>
-<a href="IMG_1591.HEIC" target="_blank"><img src="IMG_1591.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1591.jpeg" target="_blank"><img src="IMG_1591.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">プール帰りに出会った、首長族の行商の皆様</span></h2>
-<a href="IMG_1592.HEIC" target="_blank"><img src="IMG_1592.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1592.jpeg" target="_blank"><img src="IMG_1592.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">メーチャンのLotusから見えた綺麗な空</span></h2>
-<a href="IMG_1593.HEIC" target="_blank"><img src="IMG_1593.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1594.HEIC" target="_blank"><img src="IMG_1594.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1593.jpeg" target="_blank"><img src="IMG_1593.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1594.jpeg" target="_blank"><img src="IMG_1594.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">Lotusのソフトドリンクで糖分補給</span></h2>
-<a href="IMG_1596.HEIC" target="_blank"><img src="IMG_1596.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1597.HEIC" target="_blank"><img src="IMG_1597.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1598.HEIC" target="_blank"><img src="IMG_1598.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1596.jpeg" target="_blank"><img src="IMG_1596.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1597.jpeg" target="_blank"><img src="IMG_1597.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1598.jpeg" target="_blank"><img src="IMG_1598.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お店を出た頃には、綺麗な夕焼け空</span></h2>
-<a href="IMG_1599.HEIC" target="_blank"><img src="IMG_1599.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1600.HEIC" target="_blank"><img src="IMG_1600.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1599.jpeg" target="_blank"><img src="IMG_1599.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1600.jpeg" target="_blank"><img src="IMG_1600.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">三日月と金星が接近中（金星は右下に小さく写ってます）</span></h2>
-<a href="IMG_1601.HEIC" target="_blank"><img src="IMG_1601.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1602.HEIC" target="_blank"><img src="IMG_1602.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1603.HEIC" target="_blank"><img src="IMG_1603.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1604.HEIC" target="_blank"><img src="IMG_1604.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1605.HEIC" target="_blank"><img src="IMG_1605.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1601.jpeg" target="_blank"><img src="IMG_1601.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1602.jpeg" target="_blank"><img src="IMG_1602.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1603.jpeg" target="_blank"><img src="IMG_1603.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1604.jpeg" target="_blank"><img src="IMG_1604.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1605.jpeg" target="_blank"><img src="IMG_1605.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">夜はメタバースで遊んでいたら、4歳の甥っ子が横から眺めて操作方法を習得<br>動きが怪しくなったのをWorldオーナーに見破られました</span></h2>
-<a href="IMG_1606.HEIC" target="_blank"><img src="IMG_1606.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1606.jpeg" target="_blank"><img src="IMG_1606.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ちなみにWorldオーナーはこの方<br>メタバース界の重鎮です、画像クリックでXアカウントに飛びます</span></h2>
 <a href="https://x.com/vrfairytownship" target="_blank"><img src="akilux.png" alt="サンプル画像" width="900" /></a>
