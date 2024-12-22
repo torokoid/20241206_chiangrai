@@ -157,61 +157,80 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">6日の朝、一般家庭の屋外食事スペース兼、作業場</span></h2>
-<a href="IMG_1531.HEIC" target="_blank"><img src="IMG_1531.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1532.HEIC" target="_blank"><img src="IMG_1532.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1533.HEIC" target="_blank"><img src="IMG_1533.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1534.HEIC" target="_blank"><img src="IMG_1534.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1535.HEIC" target="_blank"><img src="IMG_1535.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1536.HEIC" target="_blank"><img src="IMG_1536.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1537.HEIC" target="_blank"><img src="IMG_1537.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1538.HEIC" target="_blank"><img src="IMG_1538.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1539.HEIC" target="_blank"><img src="IMG_1539.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1540.HEIC" target="_blank"><img src="IMG_1540.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1541.HEIC" target="_blank"><img src="IMG_1541.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1542.HEIC" target="_blank"><img src="IMG_1542.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1543.HEIC" target="_blank"><img src="IMG_1543.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1544.HEIC" target="_blank"><img src="IMG_1544.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1531.jpeg" target="_blank"><img src="IMG_1531.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1532.jpeg" target="_blank"><img src="IMG_1532.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1533.jpeg" target="_blank"><img src="IMG_1533.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1534.jpeg" target="_blank"><img src="IMG_1534.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1535.jpeg" target="_blank"><img src="IMG_1535.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1536.jpeg" target="_blank"><img src="IMG_1536.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1537.jpeg" target="_blank"><img src="IMG_1537.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1538.jpeg" target="_blank"><img src="IMG_1538.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1539.jpeg" target="_blank"><img src="IMG_1539.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1540.jpeg" target="_blank"><img src="IMG_1540.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1541.jpeg" target="_blank"><img src="IMG_1541.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1542.jpeg" target="_blank"><img src="IMG_1542.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1543.jpeg" target="_blank"><img src="IMG_1543.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1544.jpeg" target="_blank"><img src="IMG_1544.jpeg" alt="サンプル画像" width="900" /></a>
 <!--
-<a href="IMG_1545.HEIC" target="_blank"><img src="IMG_1545.HEIC" alt="サンプル画像" width="900" /></a>-->
-<a href="IMG_1546.HEIC" target="_blank"><img src="IMG_1546.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1547.HEIC" target="_blank"><img src="IMG_1547.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1548.HEIC" target="_blank"><img src="IMG_1548.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1549.HEIC" target="_blank"><img src="IMG_1549.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1550.HEIC" target="_blank"><img src="IMG_1550.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1551.HEIC" target="_blank"><img src="IMG_1551.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1552.HEIC" target="_blank"><img src="IMG_1552.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1545.jpeg" target="_blank"><img src="IMG_1545.jpeg" alt="サンプル画像" width="900" /></a>-->
+<a href="IMG_1546.jpeg" target="_blank"><img src="IMG_1546.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1547.jpeg" target="_blank"><img src="IMG_1547.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1548.jpeg" target="_blank"><img src="IMG_1548.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1549.jpeg" target="_blank"><img src="IMG_1549.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1550.jpeg" target="_blank"><img src="IMG_1550.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1551.jpeg" target="_blank"><img src="IMG_1551.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1552.jpeg" target="_blank"><img src="IMG_1552.jpeg" alt="サンプル画像" width="900" /></a>
 <!--
-<a href="IMG_1553.HEIC" target="_blank"><img src="IMG_1553.HEIC" alt="サンプル画像" width="900" /></a>-->
-<a href="IMG_1554.HEIC" target="_blank"><img src="IMG_1554.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1553.jpeg" target="_blank"><img src="IMG_1553.jpeg" alt="サンプル画像" width="900" /></a>-->
+<a href="IMG_1554.jpeg" target="_blank"><img src="IMG_1554.jpeg" alt="サンプル画像" width="900" /></a>
 <!--
-<a href="IMG_1555.HEIC" target="_blank"><img src="IMG_1555.HEIC" alt="サンプル画像" width="900" /></a>-->
+<a href="IMG_1555.jpeg" target="_blank"><img src="IMG_1555.jpeg" alt="サンプル画像" width="900" /></a>-->
 <!--
-<a href="IMG_1556.HEIC" target="_blank"><img src="IMG_1556.HEIC" alt="サンプル画像" width="900" /></a>-->
-<a href="IMG_1557.HEIC" target="_blank"><img src="IMG_1557.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1558.HEIC" target="_blank"><img src="IMG_1558.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1556.jpeg" target="_blank"><img src="IMG_1556.jpeg" alt="サンプル画像" width="900" /></a>-->
+<a href="IMG_1557.jpeg" target="_blank"><img src="IMG_1557.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1558.jpeg" target="_blank"><img src="IMG_1558.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">Toyotaのトラック荷台は植木鉢になっています</span></h2>
-<a href="IMG_1559.HEIC" target="_blank"><img src="IMG_1559.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1560.HEIC" target="_blank"><img src="IMG_1560.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1561.HEIC" target="_blank"><img src="IMG_1561.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1562.HEIC" target="_blank"><img src="IMG_1562.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1563.HEIC" target="_blank"><img src="IMG_1563.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1564.HEIC" target="_blank"><img src="IMG_1564.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1565.HEIC" target="_blank"><img src="IMG_1565.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1566.HEIC" target="_blank"><img src="IMG_1566.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1567.HEIC" target="_blank"><img src="IMG_1567.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1568.HEIC" target="_blank"><img src="IMG_1568.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1559.jpeg" target="_blank"><img src="IMG_1559.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1560.jpeg" target="_blank"><img src="IMG_1560.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1561.jpeg" target="_blank"><img src="IMG_1561.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1562.jpeg" target="_blank"><img src="IMG_1562.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1563.jpeg" target="_blank"><img src="IMG_1563.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1564.jpeg" target="_blank"><img src="IMG_1564.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1565.jpeg" target="_blank"><img src="IMG_1565.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1566.jpeg" target="_blank"><img src="IMG_1566.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1567.jpeg" target="_blank"><img src="IMG_1567.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1568.jpeg" target="_blank"><img src="IMG_1568.jpeg" alt="サンプル画像" width="900" /></a>
 <!--
-<a href="IMG_1569.HEIC" target="_blank"><img src="IMG_1569.HEIC" alt="サンプル画像" width="900" /></a>-->
-<!--
-<a href="IMG_1570.HEIC" target="_blank"><img src="IMG_1570.HEIC" alt="サンプル画像" width="900" /></a>-->
+<a href="IMG_1569.jpeg" target="_blank"><img src="IMG_1569.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1570.jpeg" target="_blank"><img src="IMG_1570.jpeg" alt="サンプル画像" width="900" /></a>-->
 
 <h2><span class="yellow">夕焼け空に三日月と金星</span></h2>
-<a href="IMG_1571.HEIC" target="_blank"><img src="IMG_1571.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1571.jpeg" target="_blank"><img src="IMG_1571.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">三日月と金星が接近中</span></h2>
-<a href="IMG_1572.HEIC" target="_blank"><img src="IMG_1572.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1573.HEIC" target="_blank"><img src="IMG_1573.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1572.jpeg" target="_blank"><img src="IMG_1572.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1573.jpeg" target="_blank"><img src="IMG_1573.jpeg" alt="サンプル画像" width="900" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2><span class="yellow">7日も朝市で食料調達します</span></h2>
 <a href="IMG_1574.HEIC" target="_blank"><img src="IMG_1574.HEIC" alt="サンプル画像" width="900" /></a>
